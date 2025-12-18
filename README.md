@@ -13,8 +13,8 @@
 ---
 
 ### 🧠 Core Expertise
+- 🤖 **AI & ML:** Python, Machine Learning, Deep Learning, Generative AI
 - 📊 **Data Science:** NumPy, Pandas, Mathematics
-- 🤖 **AI & ML:** Machine Learning, Deep Learning, Generative AI
 - 👁️ **Computer Vision:** OpenCV, YOLO, OCR
 - ⚙️ **Backend:** FastAPI, OAuth, Python
 - 🧩 **Problem Solving:** Data Structures & Algorithms
