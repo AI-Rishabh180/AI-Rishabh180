@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">👋 Hi, I'm Rishabh Bhandoria</h1>
 <h3 align="center">Aspiring Generative AI Engineer | Applied AI & ML Enthusiast 🚀</h3>
 
